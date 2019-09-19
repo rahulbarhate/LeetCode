@@ -9,3 +9,4 @@ Sr. No | Problem | Solution
 4 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](solutions/sort_colors.cpp)
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Solution](solutions/reverse_only_letters.cpp)
 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](solutions/path_sum.cpp)
+7 | [](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp)
