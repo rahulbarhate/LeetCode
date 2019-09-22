@@ -10,3 +10,4 @@ Sr. No | Problem | Solution
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Solution](solutions/reverse_only_letters.cpp)
 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](solutions/path_sum.cpp)
 7 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp)
+8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp)
