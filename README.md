@@ -11,3 +11,4 @@ Sr. No | Problem | Solution
 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](solutions/path_sum.cpp)
 7 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp)
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp)
+9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp)
