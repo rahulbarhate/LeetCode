@@ -13,3 +13,8 @@ Sr. No | Problem | Solution
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp)
 9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp)
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range2.cpp)
+
+
+Important Articles:
+
+- Bit Manipulation - [Gaurav Sen](https://www.youtube.com/watch?v=JqxgC5zcdEw), [Tricks1](http://graphics.stanford.edu/~seander/bithacks.html), [Tricks2](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently), [GeeksforGeeks](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
