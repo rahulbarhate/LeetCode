@@ -38,7 +38,11 @@ Important Articles:
 
 - [Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
 - [Very important for Google](https://leetcode.com/discuss/interview-question/469325/Google-or-Recruiter-Phone-or-Algorithms-and-Complexity)
+- [Google Interview Tips + FAQs Answered + Resources](https://leetcode.com/discuss/career/449744/Google-Interview-Tips-%2B-FAQs-Answered-%2B-Resources)
 
 ### Others
 
-[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+- [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+- [List of questions sorted by common patterns](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns.)
+
+
