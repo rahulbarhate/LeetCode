@@ -18,3 +18,24 @@ Sr. No | Problem | Solution | Video | Note
 Important Articles:
 
 - Bit Manipulation - [Gaurav Sen](https://www.youtube.com/watch?v=JqxgC5zcdEw), [Tricks1](http://graphics.stanford.edu/~seander/bithacks.html), [Tricks2](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently), [GeeksforGeeks](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
+
+## Important Resources
+
+### Microsoft
+
+[Microsoft Online Assessment Questions](https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions)
+
+### Amazon
+
+- [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+- [Very important for Amazon](https://leetcode.com/discuss/interview-question/455991/I-got-an-offer-from-Amazon-(SDE-I)-and-Google-(L3)-here's-my-thoughts%3A)
+- [Amazon SDE 1 Questions](https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1)
+
+### Google
+
+- [Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
+- [Very important for Google](https://leetcode.com/discuss/interview-question/469325/Google-or-Recruiter-Phone-or-Algorithms-and-Complexity)
+
+### Others
+
+[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
