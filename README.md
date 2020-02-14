@@ -1,4 +1,4 @@
-# leetcode
+# LeetCode
 My attempt at leetcode exercises in C++
 
 Sr. No | Problem | Solution | Video | Note
