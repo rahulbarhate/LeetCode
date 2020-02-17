@@ -45,4 +45,9 @@ Important Articles:
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 - [List of questions sorted by common patterns](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns.)
 
+**[William Fiset's youtube channel](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)**
+**[Java Q&As](http://www.developersbook.com/corejava/interview-questions/corejava-interview-questions-faqs.php)**
 
+[System Design Basics](https://github.com/donnemartin/system-design-primer)
+[System Design Scalability](https://github.com/binhnguyennus/awesome-scalability)
+[Basics of COmputer Networks](https://hpbn.co/)
