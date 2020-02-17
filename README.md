@@ -48,6 +48,6 @@ Important Articles:
 **[William Fiset's youtube channel](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)**
 **[Java Q&As](http://www.developersbook.com/corejava/interview-questions/corejava-interview-questions-faqs.php)**
 
-[System Design Basics](https://github.com/donnemartin/system-design-primer)
-[System Design Scalability](https://github.com/binhnguyennus/awesome-scalability)
-[Basics of COmputer Networks](https://hpbn.co/)
+- [System Design Basics](https://github.com/donnemartin/system-design-primer)
+- [System Design Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Basics of COmputer Networks](https://hpbn.co/)
