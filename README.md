@@ -15,6 +15,7 @@ Sr. No | Problem | Solution | Video | Note
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range2.cpp) | |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [DFS](), [BFS](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s)
 
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution]() | |
 
