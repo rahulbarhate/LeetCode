@@ -12,10 +12,10 @@ Sr. No | Problem | Solution | Video | Note
 7 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp) | |
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp) | |
 9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp) | |
-10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range2.cpp) | |
+10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
-200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union Method
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union Method
 
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution]() | |
 
