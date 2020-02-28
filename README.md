@@ -1,8 +1,8 @@
 # LeetCode
 My attempt at leetcode exercises in C++, Java and Python
 
-Sr. No | Problem | Solution | Video | Note | Companies
----|-------|-------|----|----|
+Sr. No | Problem | Solution | Video | Note
+---|-------|-------|----|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/two_sum.cpp) | |
 2 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](solutions/fizz_buzz1.cpp), [Solution](solutions/fizz_buzz2.cpp), [Solution](solutions/fizz_buzz3.cpp) | |
 3 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](solutions/invert_binary_tree.cpp)
@@ -15,7 +15,7 @@ Sr. No | Problem | Solution | Video | Note | Companies
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
-200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union Method | Amazon, Bloomberg, Facebook, Microsoft, Google, Uber, Oracle, Apple, Walmart, LinkedIn, Yahoo, Snapchat, Goldman,JPMorgan
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
 
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution]() | |
 
