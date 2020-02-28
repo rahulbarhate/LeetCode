@@ -15,7 +15,7 @@ Sr. No | Problem | Solution | Video | Note
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](https://github.com/rahulbarhate/leetcode/blob/master/solutions/bitwise_AND_of_numbers_range2.cpp) | |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
-200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [DFS](), [BFS](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s)
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union Method
 
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution]() | |
 
@@ -46,8 +46,8 @@ Important Articles:
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 - [List of questions sorted by common patterns](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns.)
 
-**[William Fiset's youtube channel](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)**
-**[Java Q&As](http://www.developersbook.com/corejava/interview-questions/corejava-interview-questions-faqs.php)**
+- **[William Fiset's youtube channel](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)**
+- **[Java Q&As](http://www.developersbook.com/corejava/interview-questions/corejava-interview-questions-faqs.php)**
 
 - [System Design Basics](https://github.com/donnemartin/system-design-primer)
 - [System Design Scalability](https://github.com/binhnguyennus/awesome-scalability)
