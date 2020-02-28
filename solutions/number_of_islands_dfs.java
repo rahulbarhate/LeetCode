@@ -1,6 +1,21 @@
+/*
+
+Intuition
+
+Treat the 2d grid map as an undirected graph and there is an edge between two horizontally or vertically adjacent nodes of value '1'.
+
+Algorithm
+
+Linear scan the 2d grid map, if a node contains a '1', then it is a root node that triggers a Depth First Search.
+During DFS, every visited node should be set as '0' to mark as visited node. 
+Count the number of root nodes that trigger DFS, this number would be the number of islands since each DFS starting
+at some root identifies an island.
+
+
+*/
+
 class Solution 
 {
-    
     public void dfs(char[][] grid, int r, int c)
     {
         int nr = grid.length;
@@ -45,3 +60,14 @@ class Solution
         return numofIslands;
     }
 }
+
+/*
+
+Complexity Analysis
+
+Time complexity : O(M x N)O(M×N) where MM is the number of rows and NN is the number of columns.
+
+Space complexity : worst case O(M x N) in case that the grid map is filled with lands where DFS goes
+by M x N deep.
+
+*/
