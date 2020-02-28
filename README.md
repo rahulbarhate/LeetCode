@@ -1,5 +1,5 @@
 # LeetCode
-My attempt at leetcode exercises in C++
+My attempt at leetcode exercises in C++, Java and Python
 
 Sr. No | Problem | Solution | Video | Note
 ---|-------|-------|----|----|
