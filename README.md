@@ -52,3 +52,4 @@ Important Articles:
 - [System Design Basics](https://github.com/donnemartin/system-design-primer)
 - [System Design Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Basics of Computer Networks](https://hpbn.co/)
+- [LeetCode DP](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns#Minimum-(Maximum)-Path-to-Reach-a-Target)
