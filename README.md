@@ -24,6 +24,13 @@ Important Articles:
 
 - Bit Manipulation - [Gaurav Sen](https://www.youtube.com/watch?v=JqxgC5zcdEw), [Tricks1](http://graphics.stanford.edu/~seander/bithacks.html), [Tricks2](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently), [GeeksforGeeks](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
 
+## Company
+
+Company | Problem no
+----|---------
+Google | 
+Zillow | 733
+
 ## Important Resources
 
 ### Microsoft
