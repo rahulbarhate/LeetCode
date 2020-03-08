@@ -1,3 +1,5 @@
+/* Time Complexity - o(N*N) */
+
 class Solution
 {
 public:
