@@ -16,6 +16,7 @@ Sr. No | Problem | Solution | Video | Note
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
+204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++ - Brute](solutions/count_primes_brute.cpp), [CPP - Optimization](solutions/count_primes_optimization.cpp), [CPP - Seive of Eratosthenes](solutions/count_primes_seive.cpp), [Java - Seive](solutions/count_primes_seive.java) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
 252| [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) |  
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
@@ -31,7 +32,15 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 
+Google | 204, 
+Amazon | 204,
+Microsoft | 204,
+Apple | 204,
+Bloomberg | 204,
+Adobe | 204,
+Yahoo | 204,
+Intel | 204,
+Oracle | 204,
 Zillow | 733
 
 ## Important Resources
