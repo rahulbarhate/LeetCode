@@ -20,6 +20,7 @@ Sr. No | Problem | Solution | Video | Note
 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++ - Brute](solutions/count_primes_brute.cpp), [C++ - Optimization](solutions/count_primes_optimization.cpp), [C++ - Seive of Eratosthenes](solutions/count_primes_seive.cpp) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
 252| [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) |  
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
+560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | []() | []()
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
 
@@ -34,21 +35,24 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 91, 204, 
-Amazon | 91, 204,
-Microsoft | 91, 204,
-Facebook | 91
-Uber | 91
-Apple | 91, 204,
-Bloomberg | 91, 204,
-Adobe | 91, 204,
+Google | 91, 204, 560
+Amazon | 91, 204, 560
+Microsoft | 91, 204, 560
+Facebook | 91, 560
+Uber | 91, 560
+Apple | 91, 204, 560
+Bloomberg | 91, 204, 560
+Adobe | 91, 204, 560
+Goldman Sachs | 560, 
 Twitter | 91, 
 Yahoo | 204,
+LinkedIn | 560, 
 Intel | 204,
-Oracle | 204,
+Oracle | 204, 560
 Lyft | 91, 
-Snapchat | 91, 
+Snapchat | 91, 560
 Barclays | 91, 
+Twilio | 560
 Zillow | 733
 
 ## Important Resources
