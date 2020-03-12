@@ -4,7 +4,7 @@ My attempt at leetcode exercises in C++, Java and Python
 Sr. No | Problem | Solution | Video | Note
 ---|-------|-------|----|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/two_sum.cpp) | |
-2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | []() | []() |
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](add_two_numbers.java) | [Nick](https://www.youtube.com/watch?v=aM4Iv7eEr2o) |
 3 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](solutions/invert_binary_tree.cpp)
 4 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](solutions/sort_colors.cpp) | |
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Solution](solutions/reverse_only_letters.cpp)
