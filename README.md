@@ -4,7 +4,7 @@ My attempt at leetcode exercises in C++, Java and Python
 Sr. No | Problem | Solution | Video | Note
 ---|-------|-------|----|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/two_sum.cpp) | |
-2 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](solutions/fizz_buzz1.cpp), [Solution](solutions/fizz_buzz2.cpp), [Solution](solutions/fizz_buzz3.cpp) | |
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | []() | []() |
 3 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](solutions/invert_binary_tree.cpp)
 4 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](solutions/sort_colors.cpp) | |
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Solution](solutions/reverse_only_letters.cpp)
@@ -19,6 +19,7 @@ Sr. No | Problem | Solution | Video | Note
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++ - Brute](solutions/count_primes_brute.cpp), [C++ - Optimization](solutions/count_primes_optimization.cpp), [C++ - Seive of Eratosthenes](solutions/count_primes_seive.cpp) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
 252| [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) |  
+412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](solutions/fizz_buzz1.cpp), [C++](solutions/fizz_buzz2.cpp), [C++](solutions/fizz_buzz3.cpp) | |
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | []() | []()
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
@@ -35,24 +36,31 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 91, 204, 560
-Amazon | 91, 204, 560
-Microsoft | 91, 204, 560
-Facebook | 91, 560
-Uber | 91, 560
-Apple | 91, 204, 560
-Bloomberg | 91, 204, 560
-Adobe | 91, 204, 560
+Google | 2, 91, 204, 560
+Amazon | 2, 91, 204, 560
+Microsoft | 2, 91, 204, 560
+Facebook | 2, 91, 560
+Uber | 2, 91, 560
+Apple |2 , 91, 204, 560
+Bloomberg | 2, 91, 204, 560
+Adobe | 1, 91, 204, 560
 Goldman Sachs | 560, 
 Twitter | 91, 
-Yahoo | 204,
+Yahoo | 2, 204,
 LinkedIn | 560, 
+PayPal | 1, 2, 3, 6, 15, 20, 23, 25, 46, 53, 54, 75, 102, 134, 146, 167, 189, 199, 200, 203, 206, 207, 224, 236, 237, 238, 240, 242, 243, 253, 273, 283, 284, 344, 416, 532, 557, 973, 1041, 1229
 Intel | 204,
-Oracle | 204, 560
-Lyft | 91, 
+Oracle | 2, 204, 560
+Nvidia | 2
+MathWorks | 2, 
+Airbnb | 2
+VMWare | 2
+Lyft | 2, 91, 
+QualComm | 2, 
 Snapchat | 91, 560
 Barclays | 91, 
 Twilio | 560
+Cisco | 2, 
 Zillow | 733
 
 ## Important Resources
