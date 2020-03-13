@@ -24,7 +24,7 @@ Sr. No | Problem | Solution | Video | Note
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | []() | []()
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
-
+953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Java](solutions/verifying_an_alien_dictionary.java), [Java]() | [Kevin](https://www.youtube.com/watch?v=jZBnFxIe4Y8), [Nick](https://www.youtube.com/watch?time_continue=649&v=qSbJZWENtX4&feature=emb_logo) - Better | 
 
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution]() | |
 
@@ -37,9 +37,9 @@ Important Articles:
 Company | Problem no
 ----|---------
 Google | 2, 91, 204, 560
-Amazon | 2, 91, 204, 560
-Microsoft | 2, 91, 204, 560
-Facebook | 2, 91, 560
+Amazon | 2, 91, 204, 560, 953
+Microsoft | 2, 91, 204, 560, 953
+Facebook | 2, 91, 560, 953
 Uber | 2, 91, 560
 Apple |2 , 91, 204, 560
 Bloomberg | 2, 91, 204, 560
@@ -53,7 +53,7 @@ Intel | 204,
 Oracle | 2, 204, 560
 Nvidia | 2
 MathWorks | 2, 
-Airbnb | 2
+Airbnb | 2, 953
 VMWare | 2
 Lyft | 2, 91, 
 QualComm | 2, 
