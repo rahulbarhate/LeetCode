@@ -13,6 +13,7 @@ Sr. No | Problem | Solution | Video | Note
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp) | |
 9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp) | |
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](solutions/climbing_stairs_dp.java) | [Kevin](https://www.youtube.com/watch?v=uHAToNgAPaM)
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | :lock: [Java - Iterative Bottoms up DP](decode_ways_iterative.java), [Java - Recursion with Memorization](decode_ways_recursion.java)| [Kevin](https://www.youtube.com/watch?v=cQX3yHS0cLo) - Iterative, [Jessie](https://www.youtube.com/watch?v=YcJTyrG3bZs) - Recursive with memorization | [LeetCode Discuss Recursive to DP](https://leetcode.com/problems/decode-ways/discuss/30451/Evolve-from-recursion-to-dp)
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
@@ -36,21 +37,21 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 2, 91, 204, 560
-Amazon | 2, 91, 204, 560, 953
-Microsoft | 2, 91, 204, 560, 953
-Facebook | 2, 91, 560, 953
-Uber | 2, 91, 560
-Apple |2 , 91, 204, 560
-Bloomberg | 2, 91, 204, 560
-Adobe | 1, 91, 204, 560
-Goldman Sachs | 560, 
+Google | 2, 70, 91, 204, 560
+Amazon | 2, 70, 91, 204, 560, 953
+Microsoft | 2, 70, 91, 204, 560, 953
+Facebook | 2, 70, 91, 560, 953
+Uber | 2, 70, 91, 560
+Apple |2 , 70, 91, 204, 560
+Bloomberg | 2, 70, 91, 204, 560
+Adobe | 1, 70, 91, 204, 560
+Goldman Sachs | 70, 560, 
 Twitter | 91, 
 Yahoo | 2, 204,
-LinkedIn | 560, 
+LinkedIn | 70, 560, 
 PayPal | 1, 2, 3, 6, 15, 20, 23, 25, 46, 53, 54, 75, 102, 134, 146, 167, 189, 199, 200, 203, 206, 207, 224, 236, 237, 238, 240, 242, 243, 253, 273, 283, 284, 344, 416, 532, 557, 973, 1041, 1229
 Intel | 204,
-Oracle | 2, 204, 560
+Oracle | 2, 70, 204, 560
 Nvidia | 2
 MathWorks | 2, 
 Airbnb | 2, 953
@@ -58,6 +59,7 @@ VMWare | 2
 Lyft | 2, 91, 
 QualComm | 2, 
 Snapchat | 91, 560
+Walmart Labs | 70, 
 Barclays | 91, 
 Twilio | 560
 Cisco | 2, 
