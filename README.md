@@ -2,13 +2,13 @@
 My attempt at leetcode exercises in C++, Java and Python
 
 Sr. No | Problem | Solution | Video | Note
----|-------|-------|----|----
+--|-------|-------|----|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/two_sum.cpp) | |
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](add_two_numbers.java) | [Nick](https://www.youtube.com/watch?v=aM4Iv7eEr2o) |
-3 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](solutions/invert_binary_tree.cpp)
-4 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](solutions/sort_colors.cpp) | |
-5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Solution](solutions/reverse_only_letters.cpp)
-6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](solutions/path_sum.cpp) | |
+3 | 
+4 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](solutions/sort_colors.cpp) | |
+5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](solutions/reverse_only_letters.cpp)
+6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](solutions/path_sum.cpp) | |
 7 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp) | |
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp) | |
 9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp) | |
@@ -19,12 +19,14 @@ Sr. No | Problem | Solution | Video | Note
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++ - Brute](solutions/count_primes_brute.cpp), [C++ - Optimization](solutions/count_primes_optimization.cpp), [C++ - Seive of Eratosthenes](solutions/count_primes_seive.cpp) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
-252| [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) |  
+226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](solutions/invert_binary_tree.cpp)
+252 | [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) |  
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](solutions/fizz_buzz1.cpp), [C++](solutions/fizz_buzz2.cpp), [C++](solutions/fizz_buzz3.cpp) | |
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
+509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++ - Recursion](solutions/fibonacci_recursion.cpp) | [Java]()
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | []() | []()
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
-819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
+819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](solutions/most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Java](solutions/verifying_an_alien_dictionary.java), [Java](solutions/verifying_an_alien_dictionary_modular.java), [C++](solutions/verifying_an_alien_dictionary.cpp) | [Kevin](https://www.youtube.com/watch?v=jZBnFxIe4Y8), [Nick](https://www.youtube.com/watch?time_continue=649&v=qSbJZWENtX4&feature=emb_logo) - Better | 
 1119 | :lock: [Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | [C++](solutions/remove_vowels_from_a_string.cpp), [C++ - inplace](solutions/remove_vowels_from_a_string_inplace.cpp)
 
@@ -38,30 +40,31 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 2, 70, 91, 204, 560
-Amazon | 2, 70, 91, 204, 560, 953, 1119
-Microsoft | 2, 70, 91, 204, 560, 953
-Facebook | 2, 70, 91, 560, 953
-Uber | 2, 70, 91, 560
-Apple |2 , 70, 91, 204, 560
-Bloomberg | 2, 70, 91, 204, 560
+Google | 2, 70, 91, 204, 226, 560
+Amazon | 2, 70, 91, 204, 226, 509, 560, 953, 1119
+Microsoft | 2, 70, 91, 204, 226, 509, 560, 953
+Facebook | 2, 70, 91, 226, 509, 560, 953
+Uber | 2, 70, 91, 226, 560
+Apple |2 , 70, 91, 204, 509, 560
+Bloomberg | 2, 70, 91, 204, 226, 560
 Adobe | 1, 70, 91, 204, 560
 Goldman Sachs | 70, 560, 
 Twitter | 91, 
-Yahoo | 2, 204,
+Yahoo | 2, 204, 509
 LinkedIn | 70, 560, 
 PayPal | 1, 2, 3, 6, 15, 20, 23, 25, 46, 53, 54, 75, 102, 134, 146, 167, 189, 199, 200, 203, 206, 207, 224, 236, 237, 238, 240, 242, 243, 253, 273, 283, 284, 344, 416, 532, 557, 973, 1041, 1229
 Intel | 204,
 Oracle | 2, 70, 204, 560
 Nvidia | 2
+Salesforce | 226
 MathWorks | 2, 
 Airbnb | 2, 953
-VMWare | 2
+VMWare | 2, 226
 Lyft | 2, 91, 
 QualComm | 2, 
 Snapchat | 91, 560
 Walmart Labs | 70, 
-Barclays | 91, 
+Barclays | 91, 509
 Twilio | 560
 Cisco | 2, 
 Zillow | 733
