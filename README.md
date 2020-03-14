@@ -2,7 +2,7 @@
 My attempt at leetcode exercises in C++, Java and Python
 
 Sr. No | Problem | Solution | Video | Note
---|-------|-------|----|----
+--|------|-------|----|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/two_sum.cpp) | |
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](add_two_numbers.java) | [Nick](https://www.youtube.com/watch?v=aM4Iv7eEr2o) |
 3 | 
@@ -19,7 +19,7 @@ Sr. No | Problem | Solution | Video | Note
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
-204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++ - Brute](solutions/count_primes_brute.cpp), [C++ - Optimization](solutions/count_primes_optimization.cpp), [C++ - Seive of Eratosthenes](solutions/count_primes_seive.cpp) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
+204 | [Count Primes](https://leetcode.com/problems/count-primes/) | 1. [C++ - Brute](solutions/count_primes_brute.cpp),<br> 2. [C++ - Optimization](solutions/count_primes_optimization.cpp), <br> 3. [C++ - Seive of Eratosthenes](solutions/count_primes_seive.cpp) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java - recursive](solutions/invert_binary_tree_recursive.java), [Java - Iterative](solutions/invert_binary_tree_iterative.java), [C++ - Recursive](solutions/invert_binary_tree.cpp)
 252 | [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) |  
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](solutions/fizz_buzz1.cpp), [C++](solutions/fizz_buzz2.cpp), [C++](solutions/fizz_buzz3.cpp) | |
@@ -29,7 +29,7 @@ Sr. No | Problem | Solution | Video | Note
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](solutions/most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Java](solutions/verifying_an_alien_dictionary.java), [Java](solutions/verifying_an_alien_dictionary_modular.java), [C++](solutions/verifying_an_alien_dictionary.cpp) | [Kevin](https://www.youtube.com/watch?v=jZBnFxIe4Y8), [Nick](https://www.youtube.com/watch?time_continue=649&v=qSbJZWENtX4&feature=emb_logo) - Better | 
-1119 | :lock: [Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | [C++](solutions/remove_vowels_from_a_string.cpp), [C++ - inplace](solutions/remove_vowels_from_a_string_inplace.cpp)
+1119 | :lock: [Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | 1. [C++](solutions/remove_vowels_from_a_string.cpp), <br> 2. [C++ - inplace](solutions/remove_vowels_from_a_string_inplace.cpp)
 
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution]() | |
 
