@@ -3,7 +3,7 @@
 Approach 2: Recursion with Memoization
 Algorithm
 
-In the previous approach we are redundantly calculating the result for every step.
+In the brute approach we were redundantly calculating the result for every step.
 Instead, we can store the result at each step in memomemo array and directly returning the result
 from the memo array whenever that function is called again.
 
