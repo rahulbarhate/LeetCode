@@ -15,15 +15,16 @@ Sr. No | Problem | Solution | Video | Note
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[Java - Brute](solutions/climbing_stairs_brute.java), [Java - Recursion with Memorization](solutions/climbing_stairs_recursion_with_memorization.java), [Java - DP](solutions/climbing_stairs_dp.java), [Java - Fibonacci](solutions/climbing_stairs_fibonacci.java) | [Kevin](https://www.youtube.com/watch?v=uHAToNgAPaM)
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | :lock: [Java - Iterative Bottoms up DP](decode_ways_iterative.java), [Java - Recursion with Memorization](decode_ways_recursion.java)| [Kevin](https://www.youtube.com/watch?v=cQX3yHS0cLo) - Iterative, [Jessie](https://www.youtube.com/watch?v=YcJTyrG3bZs) - Recursive with memorization | [LeetCode Discuss Recursive to DP](https://leetcode.com/problems/decode-ways/discuss/30451/Evolve-from-recursion-to-dp)
+104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | :lock: [Java - Recursion](solutions/maximum_depth_of_a_binary_tree_recursive.java), [Java - Iterative](solutions/maximum_depth_of_a_binary_tree_iterative.java)
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: [Java](solutions/number_of_islands_dfs.java), [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++ - Brute](solutions/count_primes_brute.cpp), [C++ - Optimization](solutions/count_primes_optimization.cpp), [C++ - Seive of Eratosthenes](solutions/count_primes_seive.cpp) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
-226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java - recursive](solutions/invert_binary_tree_recursive.java), [Java - Iterative]((solutions/invert_binary_tree_iterative.java), [C++ - Recursive](solutions/invert_binary_tree.cpp)
+226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java - recursive](solutions/invert_binary_tree_recursive.java), [Java - Iterative](solutions/invert_binary_tree_iterative.java), [C++ - Recursive](solutions/invert_binary_tree.cpp)
 252 | [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) |  
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](solutions/fizz_buzz1.cpp), [C++](solutions/fizz_buzz2.cpp), [C++](solutions/fizz_buzz3.cpp) | |
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
-509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++ - Recursion](solutions/fibonacci_recursion.cpp) | [Java]()
+509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++ - Recursion](solutions/fibonacci_recursion.cpp), [Java]()
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | []() | []()
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](solutions/most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
@@ -40,18 +41,18 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 2, 70, 91, 204, 226, 560
-Amazon | 2, 70, 91, 204, 226, 509, 560, 953, 1119
-Microsoft | 2, 70, 91, 204, 226, 509, 560, 953
-Facebook | 2, 70, 91, 226, 509, 560, 953
-Uber | 2, 70, 91, 226, 560
-Apple |2 , 70, 91, 204, 509, 560
-Bloomberg | 2, 70, 91, 204, 226, 560
+Google | 2, 70, 91, 104, 204, 226, 560
+Amazon | 2, 70, 91, 104, 204, 226, 509, 560, 953, 1119
+Microsoft | 2, 70, 91, 104, 204, 226, 509, 560, 953
+Facebook | 2, 70, 91, 104, 226, 509, 560, 953
+Uber | 2, 70, 91, 104, 226, 560
+Apple |2 , 70, 91, 104, 204, 509, 560
+Bloomberg | 2, 70, 91, 104, 204, 226, 560
 Adobe | 1, 70, 91, 204, 560
-Goldman Sachs | 70, 560, 
+Goldman Sachs | 70, 104, 560, 
 Twitter | 91, 
-Yahoo | 2, 204, 509
-LinkedIn | 70, 560, 
+Yahoo | 2, 104, 204, 509
+LinkedIn | 70, 104, 560, 
 PayPal | 1, 2, 3, 6, 15, 20, 23, 25, 46, 53, 54, 75, 102, 134, 146, 167, 189, 199, 200, 203, 206, 207, 224, 236, 237, 238, 240, 242, 243, 253, 273, 283, 284, 344, 416, 532, 557, 973, 1041, 1229
 Intel | 204,
 Oracle | 2, 70, 204, 560
