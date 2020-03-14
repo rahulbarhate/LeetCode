@@ -7,9 +7,7 @@ In this brute force approach we take all possible step combinations i.e. 1 and 2
 At every step we are calling the function climbStairsclimbStairs for step 11 and 22, and return the sum of returned values 
 of both functions.
 
-```java
 climbStairs(i,n)=(i + 1, n) + climbStairs(i + 2, n)
-```
 
 where i defines the current step and nn defines the destination step.
 
