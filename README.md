@@ -30,6 +30,7 @@ Sr. No | Problem | Solution | Video | Note
 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | 1. [Java - Recursive](solutions/binary_tree_tilt_recursive.java), <br> 2. [Java - Iterative](solutions/binary_tree_tilt_iterative.java) |
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Java - DFS](solutions/flood_fill_dfs.java), [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](solutions/most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
+938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 1. [Java - Iterative](solutions/range_sum_of_bst_iterative.java), <br> 2. [Java - recursive](solutions/range_sum_of_bst_recursive.java)  | [Kevin](https://www.youtube.com/watch?v=SIdrJwWp3H0) - Iterative, [Nick](https://www.youtube.com/watch?v=Re0QTM4hBuI) - Both
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | 1. [Java](solutions/verifying_an_alien_dictionary.java), <br> 2. [Java](solutions/verifying_an_alien_dictionary_modular.java), <br> 3. [C++](solutions/verifying_an_alien_dictionary.cpp) | [Kevin](https://www.youtube.com/watch?v=jZBnFxIe4Y8), [Nick](https://www.youtube.com/watch?time_continue=649&v=qSbJZWENtX4&feature=emb_logo) - Better | 
 1119 | :lock: [Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | 1. [C++](solutions/remove_vowels_from_a_string.cpp), <br> 2. [C++ - inplace](solutions/remove_vowels_from_a_string_inplace.cpp)
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | []
@@ -43,12 +44,12 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 2, 70, 91, 104, 204, 206 226, 560
-Amazon | 2, 70, 91, 104, 204, 206, 226, 509, 560, 953, 1119
-Microsoft | 2, 70, 91, 104, 204, 206 226, 509, 560, 953
-Facebook | 2, 70, 91, 104, 226, 509, 560, 953
+Google | 2, 70, 91, 104, 204, 206 226, 560, 938,
+Amazon | 2, 70, 91, 104, 204, 206, 226, 509, 560, 938, 953, 1119
+Microsoft | 2, 70, 91, 104, 204, 206 226, 509, 560, 938, 953
+Facebook | 2, 70, 91, 104, 226, 509, 560, 938 953
 Uber | 2, 70, 91, 104, 226, 560
-Apple |2 , 70, 91, 104, 204, 206, 509, 560
+Apple |2 , 70, 91, 104, 204, 206, 509, 560, 938,
 Bloomberg | 2, 70, 91, 104, 204, 206, 226, 560
 Adobe | 1, 70, 91, 204, 206, 560
 Goldman Sachs | 70, 104, 206, 560, 
@@ -57,7 +58,7 @@ Yahoo | 2, 104, 204, 206, 509
 LinkedIn | 70, 104, 560, 
 PayPal | 1, 2, 3, 6, 15, 20, 23, 25, 46, 53, 54, 75, 102, 134, 146, 167, 189, 199, 200, 203, 206, 207, 224, 236, 237, 238, 240, 242, 243, 253, 273, 283, 284, 344, 416, 532, 557, 973, 1041, 1229
 Intel | 204, 206
-Oracle | 2, 70, 204, 206, 560
+Oracle | 2, 70, 204, 206, 560, 938,
 Nvidia | 2, 206, 
 Salesforce | 226
 MathWorks | 2, 206, 
