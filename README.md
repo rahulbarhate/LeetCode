@@ -18,15 +18,16 @@ Sr. No | Problem | Solution | Video | Note
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | :lock: <br> 1. [Java - Recursion](solutions/maximum_depth_of_a_binary_tree_recursive.java), <br> 2, [Java - Iterative](solutions/maximum_depth_of_a_binary_tree_iterative.java)
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 136 | [Single Number](https://leetcode.com/problems/single-number/solution/) | 1. [Java - HashSet](solutions/single_number.java), <br> 2. [Java - Bit Manipulation](solutions/single_number_bit_manipulation.java)| [Kevin](https://www.youtube.com/watch?v=CvnnCZQY2A0)
-137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | :lock: <br> 1. [Java - HashSet](solutions/single_number_ii_hashset.java), <br> 2. [Java - HashMap](solutions/single_number_ii_hashmap.java), <br> 3. [Java - Bit Manipulation](solutions/single_number_ii_bit_manipulation.java) | 
+137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | :lock: <br> 1. [Java - HashSet](solutions/single_number_ii_hashset.java), <br> 2. [Java - HashMap](solutions/single_number_ii_hashmap.java), <br> 3. [Java - Bit Manipulation](solutions/single_number_ii_bit_manipulation.java) |
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) |1. [Java - HashMap](solutions/majority_element_hashmap.java), <br> 2. [Java - Sorting](solutions/majority_element_sorting.java), 3. [Java - Divide and Conquer](solutions/majority_element_divide_and_conquer.java),<br> 4. [Java - Boyer-Moore Voting Algorithm](solutions/majority_element_boyer_moore.java) | [Ideserve](https://www.youtube.com/watch?v=zOyOwDEF1Rc)
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: <br> 1. [Java - DFS](solutions/number_of_islands_dfs.java),<br> 2. [Java](),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | 1. [C++ - Brute](solutions/count_primes_brute.cpp),<br> 2. [C++ - Optimization](solutions/count_primes_optimization.cpp), <br> 3. [C++ - Seive of Eratosthenes](solutions/count_primes_seive.cpp) | [Kevin](https://www.youtube.com/watch?v=UMVa5fRKC8I) | [Geek for Geeks](https://www.geeksforgeeks.org/print-all-prime-numbers-less-than-or-equal-to-n/)
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 1. [Java - Iterative](solutions/reverse_linked_list_iterative.java), <br> 2. [Java - Recursive](solutions/reverse_linked_list_recursive.java) | [mycodeschool](https://www.youtube.com/watch?v=sYcOK51hl-A) - Iterative, [mycodeschool](https://www.youtube.com/watch?v=KYH83T4q6Vs) - Recursive
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java - recursive](solutions/invert_binary_tree_recursive.java), [Java - Iterative](solutions/invert_binary_tree_iterative.java), [C++ - Recursive](solutions/invert_binary_tree.cpp)
 237 | [Delete Node in a Linked List]() | [Java](solutions/delete_node_in_a_linked_list.java) | | Official solution
-252 | [Meeting Rooms](LeetCode Premium Questions/Meeting Rooms.md) | 
-283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 1. [Java](solutions/move_zeros.java), <br> 2. [Java - Optimal](solutions/move_zeros_optimal.java) | | [Terrible Whiteboard](https://www.youtube.com/watch?v=0rPuILjoVsg)
+252 | [Meeting Rooms](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Meeting%20Rooms.md) | 
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 1. [Java](solutions/move_zeros.java), <br> 2. [Java - Optimal](solutions/move_zeros_optimal.java) | [Terrible Whiteboard](https://www.youtube.com/watch?v=0rPuILjoVsg) | 
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](solutions/fizz_buzz1.cpp), [C++](solutions/fizz_buzz2.cpp), [C++](solutions/fizz_buzz3.cpp) | |
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 1. [C++ - Recursion](solutions/fibonacci_recursion.cpp), <br> 2. [C++ - Iterative](solutions/fibonacci_iterative.cpp), <br> 3. [C++ - Bottoms Up using memorization](solutions/fibonacci_bottomsup.cpp), <br> 4. [C++ - Top Down using Memorization](solutions/fibonacci_topdown.cpp)
@@ -48,18 +49,18 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 2, 70, 91, 104, 136, 137 204, 206 226, 237, 283, 560, 938,
-Amazon | 2, 70, 91, 104, 136, 137, 204, 206, 226, 237, 283, 509, 560, 938, 953, 1119
+Google | 2, 70, 91, 104, 136, 137, 169, 204, 206 226, 237, 283, 560, 938,
+Amazon | 2, 70, 91, 104, 136, 137, 169, 204, 206, 226, 237, 283, 509, 560, 938, 953, 1119
 Microsoft | 2, 70, 91, 104, 136, 204, 206 226, 237, 283, 509, 560, 938, 953
 Facebook | 2, 70, 91, 104, 136, 137, 226, 509, 560, 938 953
 Uber | 2, 70, 91, 104, 226, 283, 560
-Apple |2 , 70, 91, 104, 136, 204, 206, 237, 283, 509, 560, 938,
+Apple |2 , 70, 91, 104, 136, 169, 204, 206, 237, 283, 509, 560, 938,
 Bloomberg | 2, 70, 91, 104, 136, 204, 206, 226, 283, 560
-Adobe | 1, 70, 91, 136, 204, 206, 237, 283, 560
-Oracle | 2, 70, 136, 204, 206, 237, 283, 560, 938,
+Adobe | 1, 70, 91, 136, 169, 204, 206, 237, 283, 560
+Oracle | 2, 70, 136, 169, 204, 206, 237, 283, 560, 938,
 Goldman Sachs | 70, 104, 206, 283, 560, 
-Twitter | 91, 206
-Yahoo | 2, 104, 204, 206, 283 509
+Twitter | 91, 169, 206
+Yahoo | 2, 104, 169, 204, 206, 283 509
 LinkedIn | 70, 104, 560, 
 PayPal | 1, 2, 3, 6, 15, 20, 23, 25, 46, 53, 54, 75, 102, 134, 146, 167, 189, 199, 200, 203, 206, 207, 224, 236, 237, 238, 240, 242, 243, 253, 273, 283, 284, 344, 416, 532, 557, 973, 1041, 1229
 Intel | 204, 206
@@ -70,9 +71,10 @@ Airbnb | 2, 136, 953
 VMWare | 2, 206, 226, 237,
 Lyft | 2, 91, 283
 QualComm | 2, 206, 237, 283
-Snapchat | 91, 206, 560
+Snapchat | 91, 169, 206, 560
 Walmart Labs | 70, 206, 283
 Barclays | 91, 509
+Tencent | 169, 
 Twilio | 560
 Cisco | 2, 206, 237
 Yelp | 206, 
