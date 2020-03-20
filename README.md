@@ -13,6 +13,7 @@ Sr. No | Problem | Solution | Video | Note
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp) | |
 9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp) | |
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
+53 | [Maximum Subarray]
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 1. [Java - Brute](solutions/climbing_stairs_brute.java), <br> 2. [Java - Recursion with Memorization](solutions/climbing_stairs_recursion_with_memorization.java), <br> 3. [Java - DP](solutions/climbing_stairs_dp.java),<br> 4. [Java - Fibonacci](solutions/climbing_stairs_fibonacci.java) | [Kevin](https://www.youtube.com/watch?v=uHAToNgAPaM)
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | :lock: <br> 1. [Java - Iterative Bottoms up DP](decode_ways_iterative.java), <br> 2. [Java - Recursion with Memorization](decode_ways_recursion.java)| [Kevin](https://www.youtube.com/watch?v=cQX3yHS0cLo) - Iterative, <br> [Jessie](https://www.youtube.com/watch?v=YcJTyrG3bZs) - Recursive with memorization | [LeetCode Discuss Recursive to DP](https://leetcode.com/problems/decode-ways/discuss/30451/Evolve-from-recursion-to-dp)
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | :lock: <br> 1. [Java - Recursion](solutions/maximum_depth_of_a_binary_tree_recursive.java), <br> 2, [Java - Iterative](solutions/maximum_depth_of_a_binary_tree_iterative.java)
@@ -49,19 +50,19 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 2, 70, 91, 104, 136, 137, 169, 204, 206 226, 237, 283, 560, 938,
-Amazon | 2, 70, 91, 104, 136, 137, 169, 204, 206, 226, 237, 283, 509, 560, 938, 953, 1119
-Microsoft | 2, 70, 91, 104, 136, 204, 206 226, 237, 283, 509, 560, 938, 953
-Facebook | 2, 70, 91, 104, 136, 137, 226, 509, 560, 938 953
-Uber | 2, 70, 91, 104, 226, 283, 560
-Apple |2 , 70, 91, 104, 136, 169, 204, 206, 237, 283, 509, 560, 938,
-Bloomberg | 2, 70, 91, 104, 136, 204, 206, 226, 283, 560
-Adobe | 1, 70, 91, 136, 169, 204, 206, 237, 283, 560
-Oracle | 2, 70, 136, 169, 204, 206, 237, 283, 560, 938,
+Google | 2, 53, 70, 91, 104, 136, 137, 169, 204, 206 226, 237, 283, 560, 938,
+Amazon | 2, 53, 70, 91, 104, 136, 137, 169, 204, 206, 226, 237, 283, 509, 560, 938, 953, 1119
+Microsoft | 2, 53, 70, 91, 104, 136, 204, 206 226, 237, 283, 509, 560, 938, 953
+Facebook | 2, 53, 70, 91, 104, 136, 137, 226, 509, 560, 938 953
+Uber | 2, 53, 70, 91, 104, 226, 283, 560
+Apple |2, 53, 70, 91, 104, 136, 169, 204, 206, 237, 283, 509, 560, 938,
+Bloomberg | 2, 53, 70, 91, 104, 136, 204, 206, 226, 283, 560
+Adobe | 1, 53, 70, 91, 136, 169, 204, 206, 237, 283, 560
+Oracle | 2, 53, 70, 136, 169, 204, 206, 237, 283, 560, 938,
 Goldman Sachs | 70, 104, 206, 283, 560, 
 Twitter | 91, 169, 206
 Yahoo | 2, 104, 169, 204, 206, 283 509
-LinkedIn | 70, 104, 560, 
+LinkedIn |  53, 70, 104, 560, 
 PayPal | 1, 2, 3, 6, 15, 20, 23, 25, 46, 53, 54, 75, 102, 134, 146, 167, 189, 199, 200, 203, 206, 207, 224, 236, 237, 238, 240, 242, 243, 253, 273, 283, 284, 344, 416, 532, 557, 973, 1041, 1229
 Intel | 204, 206
 Nvidia | 2, 206, 
@@ -72,13 +73,13 @@ VMWare | 2, 206, 226, 237,
 Lyft | 2, 91, 283
 QualComm | 2, 206, 237, 283
 Snapchat | 91, 169, 206, 560
-Walmart Labs | 70, 206, 283
+Walmart Labs |  53, 70, 206, 283
 Barclays | 91, 509
 Tencent | 169, 
 Twilio | 560
-Cisco | 2, 206, 237
+Cisco | 2, 53, 206, 237
 Yelp | 206, 
-Zillow | 283, 733
+Zillow |  53, 283, 733
 
 ## Important Resources
 
