@@ -5,7 +5,7 @@ Sr. No | Problem | Solution | Video | Note
 --|------|-------|----|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/two_sum.cpp) | |
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](solutions/add_two_numbers.java) | [Nick](https://www.youtube.com/watch?v=aM4Iv7eEr2o) |
-3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 1. [Java -Brute](longest_substring_without_repeating_characters_brute.java), <br> 2. [Java - Sliding Window](longest_substring_without_repeating_characters_sliding_window.java), <br> 3. [Java - Sliding Windwo Optimized] (longest_substring_without_repeating_characters_sliding_window_optimized.java) | [Nick](https://www.youtube.com/watch?v=3IETreEybaA) | Follow up - 159
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 1. [Java -Brute](longest_substring_without_repeating_characters_brute.java), <br> 2. [Java - Sliding Window](longest_substring_without_repeating_characters_sliding_window.java), <br> 3. [Java - Sliding Windwo Optimized] (solutions/longest_substring_without_repeating_characters_sliding_window_optimized.java) | [Nick](https://www.youtube.com/watch?v=3IETreEybaA) | Follow up - 159
 4 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](solutions/sort_colors.cpp) | |
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](solutions/reverse_only_letters.cpp)
 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](solutions/path_sum.cpp) | |
