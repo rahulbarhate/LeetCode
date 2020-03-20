@@ -5,7 +5,7 @@ Sr. No | Problem | Solution | Video | Note
 --|------|-------|----|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](solutions/two_sum.cpp) | |
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](solutions/add_two_numbers.java) | [Nick](https://www.youtube.com/watch?v=aM4Iv7eEr2o) |
-3 | 
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | []
 4 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](solutions/sort_colors.cpp) | |
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](solutions/reverse_only_letters.cpp)
 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](solutions/path_sum.cpp) | |
@@ -50,16 +50,16 @@ Important Articles:
 
 Company | Problem no
 ----|---------
-Google | 2, 53, 70, 91, 104, 136, 137, 169, 204, 206 226, 237, 283, 560, 938,
-Amazon | 2, 53, 70, 91, 104, 136, 137, 169, 204, 206, 226, 237, 283, 509, 560, 938, 953, 1119
-Microsoft | 2, 53, 70, 91, 104, 136, 204, 206 226, 237, 283, 509, 560, 938, 953
-Facebook | 2, 53, 70, 91, 104, 136, 137, 226, 509, 560, 938 953
-Uber | 2, 53, 70, 91, 104, 226, 283, 560
-Apple |2, 53, 70, 91, 104, 136, 169, 204, 206, 237, 283, 509, 560, 938,
-Bloomberg | 2, 53, 70, 91, 104, 136, 204, 206, 226, 283, 560
-Adobe | 1, 53, 70, 91, 136, 169, 204, 206, 237, 283, 560
+Google | 2, 3, 53, 70, 91, 104, 136, 137, 169, 204, 206 226, 237, 283, 560, 938,
+Amazon | 2, 3, 53, 70, 91, 104, 136, 137, 169, 204, 206, 226, 237, 283, 509, 560, 938, 953, 1119
+Microsoft | 2, 3, 53, 70, 91, 104, 136, 204, 206 226, 237, 283, 509, 560, 938, 953
+Facebook | 2, 3, 53, 70, 91, 104, 136, 137, 226, 509, 560, 938 953
+Uber | 2, 3, 53, 70, 91, 104, 226, 283, 560
+Apple |2, 3, 53, 70, 91, 104, 136, 169, 204, 206, 237, 283, 509, 560, 938,
+Bloomberg | 2, 3, 53, 70, 91, 104, 136, 204, 206, 226, 283, 560
+Adobe | 1, 3, 53, 70, 91, 136, 169, 204, 206, 237, 283, 560
 Oracle | 2, 53, 70, 136, 169, 204, 206, 237, 283, 560, 938,
-Goldman Sachs | 70, 104, 206, 283, 560, 
+Goldman Sachs | 3, 70, 104, 206, 283, 560, 
 Twitter | 91, 169, 206
 Yahoo | 2, 104, 169, 204, 206, 283 509
 LinkedIn |  53, 70, 104, 560, 
@@ -69,7 +69,7 @@ Nvidia | 2, 206,
 Salesforce | 226
 MathWorks | 2, 206, 
 Airbnb | 2, 136, 953
-VMWare | 2, 206, 226, 237,
+VMWare | 2, 3, 206, 226, 237,
 Lyft | 2, 91, 283
 QualComm | 2, 206, 237, 283
 Snapchat | 91, 169, 206, 560
@@ -77,9 +77,9 @@ Walmart Labs |  53, 70, 206, 283
 Barclays | 91, 509
 Tencent | 169, 
 Twilio | 560
-Cisco | 2, 53, 206, 237
-Yelp | 206, 
-Zillow |  53, 283, 733
+Cisco | 2, 3, 53, 206, 237
+Yelp | 3, 206, 
+Zillow | 3, 53, 283, 733
 
 ## Important Resources
 
@@ -111,3 +111,5 @@ Zillow |  53, 283, 733
 - [System Design Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Basics of Computer Networks](https://hpbn.co/)
 - [LeetCode DP](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns#Minimum-(Maximum)-Path-to-Reach-a-Target)
+
+- Internship Hunt - [1](https://medium.com/computer-science-and-engineering-ucsd/the-interview-hunt-e27fe596d90e), [2](https://medium.com/computer-science-and-engineering-ucsd/the-internship-hunt-397df9e2c66)
