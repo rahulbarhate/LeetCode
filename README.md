@@ -42,6 +42,7 @@ Sr. No | Problem | Solution | Video | Note
 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | 1. [Java - Recursive](solutions/binary_tree_tilt_recursive.java), <br> 2. [Java - Iterative](solutions/binary_tree_tilt_iterative.java) |
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 1. [Java - DFS](solutions/flood_fill_dfs.java), <br> 2. [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](solutions/most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
+876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 1. [Java - Array](solutions/middle_of_the_linked_list_array.java), <br> 2. [Java - Two Pointers](solutions/middle_of_the_linked_list_two_pointers.java), <br> 3. [Java - Iterative](solutions/middle_of_the_linked_list_iterative.java) | | 
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 1. [Java - Iterative](solutions/range_sum_of_bst_iterative.java), <br> 2. [Java - recursive](solutions/range_sum_of_bst_recursive.java)  | [Kevin](https://www.youtube.com/watch?v=SIdrJwWp3H0) - Iterative, [Nick](https://www.youtube.com/watch?v=Re0QTM4hBuI) - Both
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | 1. [Java](solutions/verifying_an_alien_dictionary.java), <br> 2. [Java](solutions/verifying_an_alien_dictionary_modular.java), <br> 3. [C++](solutions/verifying_an_alien_dictionary.cpp) | [Kevin](https://www.youtube.com/watch?v=jZBnFxIe4Y8), [Nick](https://www.youtube.com/watch?time_continue=649&v=qSbJZWENtX4&feature=emb_logo) - Better | 
 1119 | :lock: [Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | 1. [C++](solutions/remove_vowels_from_a_string.cpp), <br> 2. [C++ - inplace](solutions/remove_vowels_from_a_string_inplace.cpp)
@@ -105,6 +106,9 @@ Zillow | 3, 53, 283, 733
 - [Very important for Google](https://leetcode.com/discuss/interview-question/469325/Google-or-Recruiter-Phone-or-Algorithms-and-Complexity)
 - [Google Interview Tips + FAQs Answered + Resources](https://leetcode.com/discuss/career/449744/Google-Interview-Tips-%2B-FAQs-Answered-%2B-Resources)
 
+### Interview Experiences
+
+- [Amazon](https://leetcode.com/discuss/interview-question/373006), [Google and Amazon](https://leetcode.com/discuss/interview-experience/544489/google-amazon-swe-l3-swe-l4-mountain-view-seattle-april-2020-offer), [Multiple](https://leetcode.com/discuss/interview-question/546670/interview-experiences-multiple-companies-including-amazon-facebook-microsoft-oracle), 
 ### Others
 
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
