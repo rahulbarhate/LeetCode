@@ -41,7 +41,7 @@ Sr. No | Problem | Solution | Video | Note
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 1. [C++ - Recursion](solutions/fibonacci_recursion.cpp), <br> 2. [C++ - Iterative](solutions/fibonacci_iterative.cpp), <br> 3. [C++ - Bottoms Up using memorization](solutions/fibonacci_bottomsup.cpp), <br> 4. [C++ - Top Down using Memorization](solutions/fibonacci_topdown.cpp)
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | []() | []()
 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | 1. [Java - Recursive](solutions/binary_tree_tilt_recursive.java), <br> 2. [Java - Iterative](solutions/binary_tree_tilt_iterative.java) |
-680 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome-ii/) | 1. [Java - Brute](solutions/valid_palindrome_ii_brute.java), <br> 2. [Java - Two Pointer](solutions/valid_palindrome_ii_two_pointer.java)
+680 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome-ii/) | 1. [Java - Brute](solutions/valid_palindrome_ii_brute.java), <br> 2. [Java - Two Pointer](solutions/valid_palindrome_ii_two_pointer.java) | [Kevin](https://www.youtube.com/watch?v=L_74qbyPHXE)
 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | 1. [Java - DFS](solutions/flood_fill_dfs.java), <br> 2. [Java - BFS](solutions/flood_fill_bfs.java) | [Kevin](https://www.youtube.com/watch?v=TClRuEZ-uDg&list=PLi9RQVmJD2fY_-QarOPWzUepqEkHda2UY), [Nick](https://www.youtube.com/watch?v=aehEcTEPtCs) - DFS, [Amell](https://www.youtube.com/watch?v=4yZwczAHRto) - BFS | DFS, BFS
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](solutions/most_common_word.java) | [Kevin](https://www.youtube.com/watch?v=q2v5nik5vwU), [Nick](https://www.youtube.com/watch?v=qbEtfHjAI8A) | [LeetCode Discuss](https://leetcode.com/problems/most-common-word/discuss/123854/C%2B%2BJavaPython-Easy-Solution-with-Explanation)
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 1. [Java - Array](solutions/middle_of_the_linked_list_array.java), <br> 2. [Java - Two Pointers](solutions/middle_of_the_linked_list_two_pointers.java), <br> 3. [Java - Iterative](solutions/middle_of_the_linked_list_iterative.java) | | 
@@ -125,3 +125,7 @@ Zillow | 3, 53, 283, 733
 - [LeetCode DP](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns#Minimum-(Maximum)-Path-to-Reach-a-Target)
 
 - Internship Hunt - [1](https://medium.com/computer-science-and-engineering-ucsd/the-interview-hunt-e27fe596d90e), [2](https://medium.com/computer-science-and-engineering-ucsd/the-internship-hunt-397df9e2c66)
+
+### Websites
+
+[New Grad Tech](https://www.newgrad.tech/)
