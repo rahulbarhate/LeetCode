@@ -32,7 +32,7 @@ public class Solution
             }
             
             slow = slow.next;
-            false = fast.next.next;
+            fast = fast.next.next;
         }
         
         return true;
