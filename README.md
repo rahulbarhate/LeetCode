@@ -21,6 +21,7 @@ Sr. No | Problem | Solution | Video | Note
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | :lock: <br> 1. [Java - Reverse Compare](solutions/valid_palindrome_reverse_compare.java), <br> 2. [Java - Two Pointer](solutions/valid_palindrome_two_pointer.java) | | Follow up - 680
 136 | [Single Number](https://leetcode.com/problems/single-number/solution/) | 1. [Java - HashSet](solutions/single_number.java), <br> 2. [Java - Bit Manipulation](solutions/single_number_bit_manipulation.java)| [Kevin](https://www.youtube.com/watch?v=CvnnCZQY2A0)
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | :lock: <br> 1. [Java - HashSet](solutions/single_number_ii_hashset.java), <br> 2. [Java - HashMap](solutions/single_number_ii_hashmap.java), <br> 3. [Java - Bit Manipulation](solutions/single_number_ii_bit_manipulation.java) |
+141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 1. [Java - HashSet](solutions/linked_list_cycle_hashset.java), <br> 2. [Java - Two Pointer](solutions/linked_list_cycle_two_pointer.java)
 159 | :lock: [Longest Substring with At Most Two Distinct Characters](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/longest_substring_with_at_most_two_distinct_characters.md) | [Java - Sliding Window](longest_substring_with_at_most_two_distinct_characters.java) | | Follow up - 340
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) |1. [Java - HashMap](solutions/majority_element_hashmap.java), <br> 2. [Java - Sorting](solutions/majority_element_sorting.java), <br> 3. [Java - Divide and Conquer](solutions/majority_element_divide_and_conquer.java),<br> 4. [Java - Boyer-Moore Voting Algorithm](solutions/majority_element_boyer_moore.java) | [Ideserve](https://www.youtube.com/watch?v=zOyOwDEF1Rc)
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](solutions./excel_sheet_column_number.java) | | [GeeksforGeeks](https://www.geeksforgeeks.org/find-excel-column-number-column-title/)
@@ -31,6 +32,7 @@ Sr. No | Problem | Solution | Video | Note
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 1. [Java - Linear Search](solutions/contains_duplicate_linear_search.java), <br> 2. [Java - Sorting](solutions/contains_duplicate_sorting.java), <br> 3. [Java - HashSet](solutions/contains_duplicate_hashset.java)
 218 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | :lock: 1. [Java - Linear Search](solutions/contains_duplicate_ii_linear_search.java), <br> 2. [Java - BST](solutions/contains_duplicate_ii_bst.java), <br> 3. [Java - HashSet](solutions/contains_duplicate_ii_hashset.java) | 
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 1. [Java - recursive](solutions/invert_binary_tree_recursive.java), <br> 2. [Java - Iterative](solutions/invert_binary_tree_iterative.java), <br> 3. [C++ - Recursive](solutions/invert_binary_tree.cpp)
+234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 1. [Java - Array](soltions/palindrome_linked_list_array.java), <br> 2. [Java - Recursive](soltions/palindrome_linked_list_recursive.java), <br> 3. [Java - Inplace](soltions/palindrome_linked_list_in_place.java)
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](solutions/delete_node_in_a_linked_list.java) | | Official solution
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 1. [Java - Sorting](solutions/valid_anaram_sorting.java), <br> 2. [Java - HashTable](solutions/valid_anaram_hashtable.java) | | [Follow up](solutions/valid_anaram_followup.java)
 252 | [Meeting Rooms](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Meeting%20Rooms.md) | 
@@ -111,6 +113,14 @@ Zillow | 3, 53, 283, 733
 ### Interview Experiences
 
 - [Amazon](https://leetcode.com/discuss/interview-question/373006), [Google and Amazon](https://leetcode.com/discuss/interview-experience/544489/google-amazon-swe-l3-swe-l4-mountain-view-seattle-april-2020-offer), [Multiple](https://leetcode.com/discuss/interview-question/546670/interview-experiences-multiple-companies-including-amazon-facebook-microsoft-oracle), 
+
+[Amazon - Reject](https://leetcode.com/discuss/interview-experience/542631/amazon-sde-1-march-2020-virtual-onsite-reject)
+
+Amazon (not on LeetCode):
+
+[1](https://leetcode.com/discuss/interview-question/344677), [2](https://leetcode.com/discuss/interview-question/373202), 
+
+[Study Techniques](https://leetcode.com/discuss/interview-experience/542669/facebook-e4-feb-2020-offer)
 ### Others
 
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
