@@ -145,6 +145,10 @@ Amazon (not on LeetCode):
 - [System Design Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Basics of Computer Networks](https://hpbn.co/)
 - [LeetCode DP](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns#Minimum-(Maximum)-Path-to-Reach-a-Target)
+- [LeetCode Question Patterns](https://medium.com/leetcode-patterns)
+- [LeetCode DP essentials](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+- [List of questions sorted by common patterns](https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns)
+- [Common Online Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
 
 - Internship Hunt - [1](https://medium.com/computer-science-and-engineering-ucsd/the-interview-hunt-e27fe596d90e), [2](https://medium.com/computer-science-and-engineering-ucsd/the-internship-hunt-397df9e2c66)
 
