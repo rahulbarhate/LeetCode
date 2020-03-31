@@ -51,8 +51,8 @@ Sr. No | Problem | Solution | Video | Note
 340 | :lock: <br> [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Java - Sliding Window](solutions/longest_substring_with_at_most_k_distinct_characters.java) 
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 1. [C++](solutions/fizz_buzz1.cpp), <br> 2. [C++](solutions/fizz_buzz2.cpp), <br> 3. [C++](solutions/fizz_buzz3.cpp) | |
 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | :lock: <br> 1. [Java - Set](solutions/third_maximum_set.java), <br> 2. [Java - Seen Maximums](solutions/third_maximum_seen_maximums_set.java), <br> 3. [Java - 3 Maximums](solutions/third_maximum_seen_3_maximums_set.java) | |
-442 | 
-448 | 
+442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 1. [Java](find_all_duplicates_in_an_array.java) | | [GeeksforGeeks](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/), [gfg1](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/), [gfg2](https://www.geeksforgeeks.org/duplicates-array-using-o1-extra-space-set-2/), [gfg3](https://www.geeksforgeeks.org/duplicates-in-an-array-in-on-time-and-by-using-o1-extra-space-set-3/?ref=rp)
+448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 1. [Java - HashMap](solutions/find_all_numbers_disappeared_in_an_array_hashmap.java), <br> 2. [Java - In-place](solutions/find_all_numbers_disappeared_in_an_array_inplace.java)
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: <br> [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 1. [C++ - Recursion](solutions/fibonacci_recursion.cpp), <br> 2. [C++ - Iterative](solutions/fibonacci_iterative.cpp), <br> 3. [C++ - Bottoms Up using memorization](solutions/fibonacci_bottomsup.cpp), <br> 4. [C++ - Top Down using Memorization](solutions/fibonacci_topdown.cpp)
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | []() | []()
@@ -156,6 +156,8 @@ Amazon (not on LeetCode):
 - [Common Online Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
 
 - Internship Hunt - [1](https://medium.com/computer-science-and-engineering-ucsd/the-interview-hunt-e27fe596d90e), [2](https://medium.com/computer-science-and-engineering-ucsd/the-internship-hunt-397df9e2c66)
+- [Comprehensive Study Plan](https://leetcode.com/discuss/interview-experience/553913/uber-sse-ii-level-5b-india-mar-2020-reject)
+- [How did I find a FAANG job in the Bay Area](https://leetcode.com/discuss/interview-experience/552835/how-i-found-a-new-bay-area-faang-job-in-1-34-months)
 
 ### Websites
 
