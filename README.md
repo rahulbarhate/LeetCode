@@ -13,7 +13,9 @@ Sr. No | Problem | Solution | Video | Note
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp) | |
 9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp) | |
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
+20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [C++ - Stack](solutions/valid_parentheses_stack.cpp)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | :lock: 1. [Java - Recursive](solutions/merge_two_sorted_lists_recursive.java), <br> 2. [Java - Iterative](solutions/merge_two_sorted_lists_iterative.java)
+28 | [Implement strstr()](https://leetcode.com/problems/implement-strstr/) | 1. [Java - Substring](solutions/implement_strstr_substring.java), <br> 2. [Java - Two-Pointers](solutions/implement_strstr_two_pointers.java)
 53 | [Maximum Subarray]
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | :lock: [Java](solutions/rotate_list.java)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](solutions/plus_one.java) | [Kevin](https://www.youtube.com/watch?v=_sls9AdBymI)
