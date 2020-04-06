@@ -15,7 +15,7 @@ Sr. No | Problem | Solution | Video | Note
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [C++ - Stack](solutions/valid_parentheses_stack.cpp)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | :lock: 1. [Java - Recursive](solutions/merge_two_sorted_lists_recursive.java), <br> 2. [Java - Iterative](solutions/merge_two_sorted_lists_iterative.java)
-28 | [Implement strstr()](https://leetcode.com/problems/implement-strstr/) | 1. [Java - Substring](solutions/implement_strstr_substring.java), <br> 2. [Java - Two-Pointers](solutions/implement_strstr_two_pointers.java)
+28 | [Implement strstr()](https://leetcode.com/problems/implement-strstr/) | 1. [Java - Substring](solutions/implement_strstr_substring.java), <br> 2. [Java - Two-Pointers](solutions/implement_strstr_two_pointers.java), <br> 3. [Java - Rabin Karp](solutions/implement_strstr_rabin_karp.java) 
 53 | [Maximum Subarray]
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | :lock: [Java](solutions/rotate_list.java)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](solutions/plus_one.java) | [Kevin](https://www.youtube.com/watch?v=_sls9AdBymI)
@@ -36,6 +36,7 @@ Sr. No | Problem | Solution | Video | Note
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) |1. [Java - HashMap](solutions/majority_element_hashmap.java), <br> 2. [Java - Sorting](solutions/majority_element_sorting.java), <br> 3. [Java - Divide and Conquer](solutions/majority_element_divide_and_conquer.java),<br> 4. [Java - Boyer-Moore Voting Algorithm](solutions/majority_element_boyer_moore.java) | [Ideserve](https://www.youtube.com/watch?v=zOyOwDEF1Rc)
 170 | :lock: <br> [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) |  | | Follow up - 653
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](solutions./excel_sheet_column_number.java) | | [GeeksforGeeks](https://www.geeksforgeeks.org/find-excel-column-number-column-title/)
+187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | :lock: <br> 1. [Java - Substring + HashSet](solutions/repeated_dna_sequences_substring_hashset.java), <br> 2.[Java - Rabin Karp](solutions/repeated_dna_sequences_rabin_karp.java), <br> 3. []() | 
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 1. [Java - Brute](solutions/rotate_array_brute.java), <br> 2. [Java - Extra Array](solutions/rotate_array_extra_array.java), <br> 3. [Java - Reverse](solutions/rotate_array_reverse.java)
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: <br> 1. [Java - DFS](solutions/number_of_islands_dfs.java),<br> 2. Java(),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
