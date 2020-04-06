@@ -82,6 +82,7 @@ Sr. No | Problem | Solution | Video | Note
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | []
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution]() | |
 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | :lock: <br> 1. [Java - Brute]()
+1213 | :lock: [Intersection of Three Sorted Arrays](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Intersection%20of%20Three%20Sorted%20Arrays.md) | [Java](solutions/intersection_of_three_sorted_arrays.java)
 
 Important Articles:
 
