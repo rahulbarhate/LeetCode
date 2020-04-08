@@ -2,7 +2,7 @@
 My attempt at leetcode exercises in C++, Java and Python
 
 Sr. No | Problem | Solution | Video | Note
---|------|-------|----|----
+--|------|-------|--|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 1. [Java - Brute](solutions/two_sum_brute.java), <br> 2. [Java - HashMap](solutions/two_sum_hashmap.java), <br> 3. [Java - HashMap One-Pass](solutions/two_sum_hashmap_onepass.java) | | Follow up - 167, 170, 653
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](solutions/add_two_numbers.java) | [Nick](https://www.youtube.com/watch?v=aM4Iv7eEr2o) |
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 1. [Java -Brute](longest_substring_without_repeating_characters_brute.java), <br> 2. [Java - Sliding Window](longest_substring_without_repeating_characters_sliding_window.java), <br> 3. [Java - Sliding Window Optimized](solutions/longest_substring_without_repeating_characters_sliding_window_optimized.java) | [Nick](https://www.youtube.com/watch?v=3IETreEybaA) | Follow up - 159
@@ -43,6 +43,7 @@ Sr. No | Problem | Solution | Video | Note
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](solutions./excel_sheet_column_number.java) | | [GeeksforGeeks](https://www.geeksforgeeks.org/find-excel-column-number-column-title/)
 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | :lock: <br> 1. [Java - Substring + HashSet](solutions/repeated_dna_sequences_substring_hashset.java), <br> 2. [Java - Rabin Karp](solutions/repeated_dna_sequences_rabin_karp.java), <br> 3. Java - () | [IDeserve](https://www.youtube.com/watch?v=97_vofsFauU)
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 1. [Java - Brute](solutions/rotate_array_brute.java), <br> 2. [Java - Extra Array](solutions/rotate_array_extra_array.java), <br> 3. [Java - Reverse](solutions/rotate_array_reverse.java)
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 1. [Java - Bit Shift](solutions/number_of_1_bits_bit_shift.java), <br> 2. [Java - Bit Shift 1](solutions/number_of_1_bits_bit_shift1.java) | | [why while(n>0) cannot be used?](https://leetcode.com/problems/number-of-1-bits/discuss/55099/Simple-Java-Solution-Bit-Shifting)
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](solutions/house_robber.cpp) | | 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :lock: <br> 1. [Java - DFS](solutions/number_of_islands_dfs.java),<br> 2. Java(),  | [Jesse Dietrichson](https://www.youtube.com/watch?v=WRxGI8TeckU&t=617s) | DFS, BFS, Union
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | :lock: <br> [Java](solutions/remove_linked_list_elements.java)
@@ -155,6 +156,8 @@ Zillow | 3, 53, 283, 733
 - [Google Interview Tips + FAQs Answered + Resources](https://leetcode.com/discuss/career/449744/Google-Interview-Tips-%2B-FAQs-Answered-%2B-Resources)
 
 ### Interview Experiences
+
+- [Salesforce](https://leetcode.com/discuss/interview-question/566599/salesforce-associate-member-of-technical-staff-hyderabad-march-2020-offer/495352)
 
 - [Amazon](https://leetcode.com/discuss/interview-question/373006), [Google and Amazon](https://leetcode.com/discuss/interview-experience/544489/google-amazon-swe-l3-swe-l4-mountain-view-seattle-april-2020-offer), [Multiple](https://leetcode.com/discuss/interview-question/546670/interview-experiences-multiple-companies-including-amazon-facebook-microsoft-oracle), 
 
