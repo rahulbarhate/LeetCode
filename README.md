@@ -100,7 +100,7 @@ Sr. No | Problem | Solution | Video | Note
 1119 | :lock: <br>[Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | 1. [C++](), <br> 2. 
 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | :lock: <br> 1. Java - Brute()
 1213 | :lock: <br> [Intersection of Three Sorted Arrays](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Intersection%20of%20Three%20Sorted%20Arrays.md) | :no_entry_sign: <br> [Java](solutions/intersection_of_three_sorted_arrays.java)
-
+1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | :lock: <br> [Java](solutions/angle_between_hands_of_a_clock.java)
 Important Articles:
 
 - Bit Manipulation - [Gaurav Sen](https://www.youtube.com/watch?v=JqxgC5zcdEw), [Tricks1](http://graphics.stanford.edu/~seander/bithacks.html), [Tricks2](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently), [GeeksforGeeks](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
