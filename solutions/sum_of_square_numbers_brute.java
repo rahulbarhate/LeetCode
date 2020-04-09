@@ -1,17 +1,16 @@
 class Solution 
 {
-    public:
-        bool judgeSquareSum(int c)
+    public boolean judgeSquareSum(int c)
+    {
+        for(long a = 0; a*a <=c; a++)
         {
-            for(long long a = 0; a*a <=c; a++)
+            for(long b = 0; b*b <= c; b++)
             {
-                for(long long b = 0; b*b <= c; b++)
-                {
-                    if(a*a + b*b == c)
-                        return true;
-                }
+                if(a*a + b*b == c)
+                    return true;
             }
-
-            return false;
         }
-};
+        
+        return false;
+    }
+}
