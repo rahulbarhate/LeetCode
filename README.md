@@ -18,6 +18,7 @@ Sr. No | Problem | Solution | Video | Note
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1. [Java](solutions/remove_duplicates_from_sorted_array.java) | | Follow up - 80
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 1. [Java - Two Pointer](solutions/remove_element_two_pointer.java), <br> 2. [Java - Two Pointer Rare](solutions/remove_element_two_pointer_rare.java)
 28 | [Implement strstr()](https://leetcode.com/problems/implement-strstr/) | 1. [Java - Substring](solutions/implement_strstr_substring.java), <br> 2. [Java - Two-Pointers](solutions/implement_strstr_two_pointers.java), <br> 3. [Java - Rabin Karp](solutions/implement_strstr_rabin_karp.java) 
+48 | [Rotate Matrix](https://leetcode.com/problems/rotate-image/) |  :lock: <br> 1. [Java - Transpose and Reverse](solutions/rotate_image_transpose_reverse.java), <br> 2. [Rotate in rectangles](solutions/rotate_image_rotate_rectangles.java) | [Time Complexity Infinity](https://www.youtube.com/watch?v=HxMngN22YzA)
 53 | [Maximum Subarray]
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | :lock: [Java](solutions/rotate_list.java)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](solutions/plus_one.java) | [Kevin](https://www.youtube.com/watch?v=_sls9AdBymI)
