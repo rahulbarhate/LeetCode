@@ -22,26 +22,26 @@ class Solution
         
         while(!stack.isEmpty())
         {
-            TreeNode[] t = stack.pop();
-            if(t[0] == null || t[1] == null)
+            TreeNode[] tree = stack.pop();
+            if(tree[0] == null || tree[1] == null)
                 continue;
             
-            t[0].val += t[1].val;
-            if(t[0].left == null)
+            tree[0].val += tree[1].val;
+            if(tree[0].left == null)
             {
-                t[0].left = t[1].left;
+                tree[0].left = tree[1].left;
             }
             else
             {
-                stack.push(new TreeNode[] {t[0].left, t[1].left});
+                stack.push(new TreeNode[] {tree[0].left, tree[1].left});
             }
-            if(t[0].right == null)
+            if(tree[0].right == null)
             {
-                t[0].right = t[1].right;
+                tree[0].right = tree[1].right;
             }
             else
             {
-                stack.push(new TreeNode[] {t[0].right, t[1].right});
+                stack.push(new TreeNode[] {tree[0].right, tree[1].right});
             }
         }
         
