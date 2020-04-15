@@ -108,6 +108,7 @@ Sr. No | Problem | Solution | Video | Note
 1119 | :lock: <br>[Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | 1. [C++](), <br> 2. 
 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | :lock: <br> 1. Java - Brute()
 1213 | :lock: <br> [Intersection of Three Sorted Arrays](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Intersection%20of%20Three%20Sorted%20Arrays.md) | :no_entry_sign: <br> [Java](solutions/intersection_of_three_sorted_arrays.java)
+1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | :lock: 1. [Java - Brute](solutions/no_of_steps_to_reduce_a_number_to_zero_brute.java), <br> 2. [Java - Counting Bits](solutions/no_of_steps_to_reduce_a_number_to_zero_counting_bits.java), <br> 3. [Java - Counting Bits with Bitwise Operators](solutions/no_of_steps_to_reduce_a_number_to_zero_counting_bits_with_bitwise.java)
 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | :lock: <br> [Java](solutions/angle_between_hands_of_a_clock.java)
 
 
