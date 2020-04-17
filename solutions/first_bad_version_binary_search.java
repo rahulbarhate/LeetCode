@@ -7,13 +7,13 @@ public class Solution extends VersionControl
     {
         int low  = 1;
         int high = n;
-        while(low < high)
+        while(low <= high)
         {
             int mid = low + (high - low)/2;
             
             if(isBadVersion(mid) == true)
             {
-                high = mid;
+                high = mid-1;
             }
             else
             {
