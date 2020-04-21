@@ -22,6 +22,7 @@ Sr. No | Problem | Solution | Video | Note
 48 | [Rotate Matrix](https://leetcode.com/problems/rotate-image/) |  :lock: <br> 1. [Java - Transpose and Reverse](solutions/rotate_image_transpose_reverse.java), <br> 2. [Rotate in rectangles](solutions/rotate_image_rotate_rectangles.java) | [Time Complexity Infinity](https://www.youtube.com/watch?v=HxMngN22YzA)
 53 | [Maximum Subarray]
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | :lock: [Java](solutions/rotate_list.java)
+64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 1. [Java - Recursion](solutions/minimum_path_sum_brute_recursion.java), <br> 2. [Java - DP 2D](solutions/minimum_path_sum_dp_2d.java), <br> 3. [](), <br> 4. []() | 1. [Brute Recursion](https://www.youtube.com/watch?v=iZBpB3e5QI0), <br> [Kevin - DP 2D](https://www.youtube.com/watch?v=ItjZdu6jEMs)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](solutions/plus_one.java) | [Kevin](https://www.youtube.com/watch?v=_sls9AdBymI)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 1. [Java - Brute](solutions/climbing_stairs_brute.java), <br> 2. [Java - Recursion with Memorization](solutions/climbing_stairs_recursion_with_memorization.java), <br> 3. [Java - DP](solutions/climbing_stairs_dp.java),<br> 4. [Java - Fibonacci](solutions/climbing_stairs_fibonacci.java) | [Kevin](https://www.youtube.com/watch?v=uHAToNgAPaM)
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](solutions/sort_colors.cpp) | |
