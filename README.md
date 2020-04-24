@@ -42,7 +42,7 @@ Sr. No | Problem | Solution | Video | Note
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 1. [Java - HashSet](solutions/linked_list_cycle_hashset.java), <br> 2. [Java - Two Pointer](solutions/linked_list_cycle_two_pointer.java) | | Follow up - 142
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | :lock: <br> 1. [Java - HashSet](solutions/linked_list_cycle_ii_hashset.java), <br> 2. [Java Floyd Cycle Detection](solutions/linked_list_cycle_ii_two_pointer.java)
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 1. [Java - Built-in](solutions/reverse_words_in_a_string_built_in.java), <br> 2. [Java - Reverse](solutions/reverse_words_in_a_string_reverse.java), <br> 3. [Java - Dequeue](solutions/reverse_words_in_a_string_deque.java) | | 
-155 | [Min Stack](https://leetcode.com/problems/min-stack/) | :lock: 1. [Java - Stack of Value/ Minimum Pairs](solutions/min_stack_stack_pairs.java), <br> 2. [Java - Two Stacks](solutions/min_stack_two_stacks.java), <br> 3. [Java - Improved Two Stacks](solutions/min_stack_improved_two_stacks.java)
+155 | [Min Stack](https://leetcode.com/problems/min-stack/) | :lock: <br> 1. [Java - Stack of Value/ Minimum Pairs](solutions/min_stack_stack_pairs.java), <br> 2. [Java - Two Stacks](solutions/min_stack_two_stacks.java), <br> 3. [Java - Improved Two Stacks](solutions/min_stack_improved_two_stacks.java)
 159 | :lock: <br> [Longest Substring with At Most Two Distinct Characters](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/longest_substring_with_at_most_two_distinct_characters.md) | [Java - Sliding Window](longest_substring_with_at_most_two_distinct_characters.java) | | Follow up - 340
 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 1. [Java - Brute](solutions/intersection_of_two_linked_lists_brute.java), <br> 2. [Java - Hashmap](solutions/intersection_of_two_linked_lists_hashmap.java), <br> 3. [Java - Two Pointer](solutions/intersection_of_two_linked_lists_two_pointer.java) | 
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 1. [Java - Two Pointer](solutions/two_sum_ii.java) | | Follow up - 170, 653
@@ -75,7 +75,7 @@ Sr. No | Problem | Solution | Video | Note
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | :lock: <br> 1. [Java - Loop](solutions/power_of_four_loop.java), <br> 2. [Java - Brute + Precomputations](solutions/power_of_four_brute_precomputations.java), <br> 3. [Java - Math](solutions/power_of_four_math.java), <br> 4. [Java - Bit Manipulation](solutions/power_of_four_bit_manipulation.java)
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 1. [Java - Two Sets](solutions/intersection_of_two_arrays_two_sets.java), <br> 2. [Java - Built-in Set](solutions/intersection_of_two_arrays_builtin_set.java), <br> 3. [Java - O(n), O(1)](solutions/intersection_of_two_arrays_o(1).java) | | Follow up - 350
 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | :lock: <br> 1. [Java - HashMap](solutions/intersection_of_two_arrays_ii_hashmap.java), <br> 2. [Java - sort](solutions/intersection_of_two_arrays_ii_sort.java) | 
-367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | :lock: <br> 1. [Java - Odd numbers addition](solutions/valid_perfect_square_odd_number_addition.java), <br> 2. [Java - Odd numbers subtraction](solutions/valid_perfect_square_odd_number_subtraction.java), 3. [Java - Binary Search](solutions/valid_perfect_square_odd_number_binary_search.java), <br> 4. Java - Newton's Method
+367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | :lock: <br> 1. [Java - Odd numbers addition](solutions/valid_perfect_square_odd_number_addition.java), <br> 2. [Java - Odd numbers subtraction](solutions/valid_perfect_square_odd_number_subtraction.java), <br> 3. [Java - Binary Search](solutions/valid_perfect_square_odd_number_binary_search.java), <br> 4. Java - Newton's Method
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | 1. [Java - Brute](solutions/guess_number_higher_or_lower_brute.java), <br> 2. [Java - Binary Search](guess_number_higher_or_lower_binary_search.java), <br> 3. [Java Ternary Search](guess_number_higher_or_lower_ternary_search.java)
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | :lock: <br> 1. [Java - Brute](solutions/find_the_difference_brute.java), <br> 2. [Java - Hashmap](solutions/find_the_difference_hashmap.java), <br> 3. [Java - Bit Manipulation](solutions/find_the_difference_bit_manipulation.java) | | 
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 1. [C++](solutions/fizz_buzz1.cpp), <br> 2. [C++](solutions/fizz_buzz2.cpp), <br> 3. [C++](solutions/fizz_buzz3.cpp) | |
@@ -83,7 +83,7 @@ Sr. No | Problem | Solution | Video | Note
 433 | [String Compression](https://leetcode.com/problems/string-compression/) | [Java](solutions/string_compression.java)
 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 1. [Java](find_all_duplicates_in_an_array.java) | | [GeeksforGeeks](https://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/), [gfg1](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/), [gfg2](https://www.geeksforgeeks.org/duplicates-array-using-o1-extra-space-set-2/), [gfg3](https://www.geeksforgeeks.org/duplicates-in-an-array-in-on-time-and-by-using-o1-extra-space-set-3/?ref=rp)
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 1. [Java - HashMap](solutions/find_all_numbers_disappeared_in_an_array_hashmap.java), <br> 2. [Java - In-place](solutions/find_all_numbers_disappeared_in_an_array_inplace.java)
-450 | [Delete node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | :lock: <br> 1. [Java - Recursive](solutions/delete_node_in_a_bst_recursive.java), 2. Java - Iterative()
+450 | [Delete node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | :lock: <br> 1. [Java - Recursive](solutions/delete_node_in_a_bst_recursive.java), <br> 2. Java - Iterative()
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | :no_entry_sign: <br> [Java -1 ](solutions/number_complement.java) | [Kevin](https://www.youtube.com/watch?v=oURSuMY4zSc&list=PLi9RQVmJD2fbO1vqQO7SToUIxzZi-Gb8m) | [Explaination](https://leetcode.com/problems/number-complement/discuss/158120/DETAILED-EXPLANATION-Java-XOR-Method-Easy-To-Understand), [Explaination](https://leetcode.com/problems/number-complement/discuss/175469/Easy-Java-solution-with-comments-to-explain-the-thought-process)
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | :lock: <br> 1. [Java](solutions/max_consecutive_ones.java) | | Follow up - II, III
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 1. [C++ - Recursion](solutions/fibonacci_recursion.cpp), <br> 2. [C++ - Iterative](solutions/fibonacci_iterative.cpp), <br> 3. [C++ - Bottoms Up using memorization](solutions/fibonacci_bottomsup.cpp), <br> 4. [C++ - Top Down using Memorization](solutions/fibonacci_topdown.cpp)
@@ -123,10 +123,9 @@ Sr. No | Problem | Solution | Video | Note
 
 Important Programs
 
-Sr. No | Program |
---|------|-------|
-
-1. | [Program to find all subarrays and subsequences of an array](https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)
+Sr. No | Program
+---|------
+1 | [Program to find all subarrays and subsequences of an array](https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)
 
 Important Articles:
 
