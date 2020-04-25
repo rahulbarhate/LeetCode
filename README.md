@@ -120,6 +120,7 @@ Sr. No | Problem | Solution | Video | Note
 1213 | :lock: <br> [Intersection of Three Sorted Arrays](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Intersection%20of%20Three%20Sorted%20Arrays.md) | :no_entry_sign: <br> [Java](solutions/intersection_of_three_sorted_arrays.java)
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | :lock: 1. [Java - Brute](solutions/no_of_steps_to_reduce_a_number_to_zero_brute.java), <br> 2. [Java - Counting Bits](solutions/no_of_steps_to_reduce_a_number_to_zero_counting_bits.java), <br> 3. [Java - Counting Bits with Bitwise Operators](solutions/no_of_steps_to_reduce_a_number_to_zero_counting_bits_with_bitwise.java)
 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | :lock: <br> [Java](solutions/angle_between_hands_of_a_clock.java)
+1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | :no_entry_sign: <br> 1. [Java - O(n^2), O(n)](solutions/how_many_numbers_are_smaller_than_the_current_number_brute.java), <br> 2. [Java - O(nlogn)](solutions/how_many_numbers_are_smaller_than_the_current_number.java), <br> 3. [Java - Bucket](solutions/how_many_numbers_are_smaller_than_the_current_number_bucket.java), <br> 4. [Java - Better Bucket](solutions/how_many_numbers_are_smaller_than_the_current_number_better_bucket.java)
 
 Important Programs
 
