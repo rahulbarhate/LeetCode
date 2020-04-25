@@ -20,3 +20,6 @@ class Solution
         return copy;
     }
 }
+
+// Time: O(nlogn)
+// Space: O(n)
