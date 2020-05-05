@@ -20,7 +20,7 @@ Sr. No | Problem | Solution | Video | Note
 28 | [Implement strstr()](https://leetcode.com/problems/implement-strstr/) | 1. [Java - Substring](solutions/implement_strstr_substring.java), <br> 2. [Java - Two-Pointers](solutions/implement_strstr_two_pointers.java), <br> 3. [Java - Rabin Karp](solutions/implement_strstr_rabin_karp.java) 
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 1. [Java - Binary Search](solutions/search_insert_position_binary_search.java),
 48 | [Rotate Matrix](https://leetcode.com/problems/rotate-image/) |  :lock: <br> 1. [Java - Transpose and Reverse](solutions/rotate_image_transpose_reverse.java), <br> 2. [Rotate in rectangles](solutions/rotate_image_rotate_rectangles.java) | [Time Complexity Infinity](https://www.youtube.com/watch?v=HxMngN22YzA)
-49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 1. [Java - HashMap](solutions/group_anagrams_hashmap.java), <br> 2. [Java - Count + HashMap](solutions/group_anagrams_count.java) 
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | :lock: <br> 1. [Java - Divide & Conquer](solutions/maximum_subarray_divide_and_conquer.java), <br> 2. 
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | :lock: [Java](solutions/rotate_list.java)
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | :lock: <br> 1. [Java - Recursion](solutions/minimum_path_sum_brute_recursion.java), <br> 2. [Java - DP 2D](solutions/minimum_path_sum_dp_2d.java), <br> 3. [](), <br> 4. []() | 1. [Brute Recursion](https://www.youtube.com/watch?v=iZBpB3e5QI0), <br> 2. [Kevin - DP 2D](https://www.youtube.com/watch?v=ItjZdu6jEMs)
