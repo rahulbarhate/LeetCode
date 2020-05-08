@@ -9,9 +9,9 @@ Sr. No | Problem | Solution | Video | Note
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/median_of_two_sorted_arrays.java) | [Tushar Roy](https://www.youtube.com/watch?v=LPFhl65R7ww) | [LeetCode Discuss](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/304557/O(min(log(x-y)))-TIME-O(1)-SPACE-JAVA-SOLUTION-BINARY-SEARCH)
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](solutions/reverse_only_letters.cpp)
 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](solutions/path_sum.cpp) | |
-7 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp) | |
+7 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp)
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp) | |
-9 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](solutions/intersection_of_two_arrays.cpp) | |
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 1. [Java - Extra Space](solutions/palindrome_number_extra_space.java), <br> 2. [Java - Optimal](solutions/palindrome_number.java)
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 1. [Java - Recursive](solutions/letter_combinations_of_a_phone_number_recursive.java), <br> 2. [
 20 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [C++ - Stack](solutions/valid_parentheses_stack.cpp)
