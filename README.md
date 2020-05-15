@@ -165,6 +165,7 @@ Sr. No | Program
 
 Important Articles:
 
+- [A Guide for Dummies](https://leetcode.com/discuss/general-discussion/623011/a-guide-for-dummies-like-me)
 - Bit Manipulation - [Gaurav Sen](https://www.youtube.com/watch?v=JqxgC5zcdEw), [Tricks1](http://graphics.stanford.edu/~seander/bithacks.html), [Tricks2](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently), [GeeksforGeeks](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
 
 ## Company
