@@ -34,4 +34,4 @@ class Solution
         result.add(root.val);
         inorder(root.right, result);
     }
-}a
+}
