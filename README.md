@@ -9,7 +9,7 @@ Sr. No | Problem | Solution | Video | Note
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/median_of_two_sorted_arrays.java) | [Tushar Roy](https://www.youtube.com/watch?v=LPFhl65R7ww) | [LeetCode Discuss](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/304557/O(min(log(x-y)))-TIME-O(1)-SPACE-JAVA-SOLUTION-BINARY-SEARCH)
 5 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](solutions/reverse_only_letters.cpp)
 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](solutions/path_sum.cpp) | |
-7 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp)
+7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](solutions/reverse_integer.java) | 1. [Kevin](https://www.youtube.com/watch?v=j3VMLDg7Tp4), <br> 2. [Nick White](https://www.youtube.com/watch?v=CRgXG1vK-wg)
 8 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](solutions/valid_parenthesis.cpp) | |
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 1. [Java - Extra Space](solutions/palindrome_number_extra_space.java), <br> 2. [Java - Optimal](solutions/palindrome_number.java)
 10 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](solutions/bitwise_AND_of_numbers_range1.cpp), [Solution](solutions/bitwise_AND_of_numbers_range2.cpp) | |
@@ -45,6 +45,7 @@ Sr. No | Problem | Solution | Video | Note
 119 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle-ii/) |
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | :lock: <br> 1. [Java - Reverse Compare](solutions/valid_palindrome_reverse_compare.java), <br> 2. [Java - Two Pointer](solutions/valid_palindrome_two_pointer.java) | | Follow up - 680
+129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp)
 136 | [Single Number](https://leetcode.com/problems/single-number/solution/) | 1. [Java - HashSet](solutions/single_number.java), <br> 2. [Java - Bit Manipulation](solutions/single_number_bit_manipulation.java)| [Kevin](https://www.youtube.com/watch?v=CvnnCZQY2A0)
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | :lock: <br> 1. [Java - HashSet](solutions/single_number_ii_hashset.java), <br> 2. [Java - HashMap](solutions/single_number_ii_hashmap.java), <br> 3. [Java - Bit Manipulation](solutions/single_number_ii_bit_manipulation.java) |
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 1. [Java - HashSet](solutions/linked_list_cycle_hashset.java), <br> 2. [Java - Two Pointer](solutions/linked_list_cycle_two_pointer.java) | | Follow up - 142
