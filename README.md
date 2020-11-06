@@ -2,7 +2,7 @@
 My attempt at leetcode exercises in C++, Java and Python
 
 Sr. No | Problem | Solution | Video | Note
---|------|-------|--|----
+-|------|-------|--|----
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 1. [Java - Brute](solutions/two_sum_brute.java), <br> 2. [Java - HashMap](solutions/two_sum_hashmap.java), <br> 3. [Java - HashMap One-Pass](solutions/two_sum_hashmap_onepass.java) | | Follow up - 167, 170, 653
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](solutions/add_two_numbers.java) | [Nick](https://www.youtube.com/watch?v=aM4Iv7eEr2o) |
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 1. [Java -Brute](longest_substring_without_repeating_characters_brute.java), <br> 2. [Java - Sliding Window](longest_substring_without_repeating_characters_sliding_window.java), <br> 3. [Java - Sliding Window Optimized](solutions/longest_substring_without_repeating_characters_sliding_window_optimized.java) | [Nick](https://www.youtube.com/watch?v=3IETreEybaA) | Follow up - 159
@@ -45,7 +45,7 @@ Sr. No | Problem | Solution | Video | Note
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | :lock: <br> 1. [Java - Recursive](solutions/minimum_depth_of_a_binary_tree_recursive.java), <br> 2. [Java - DFS Iterative](solutions/minimum_depth_of_a_binary_tree_dfs.java), <br> 3. [Java - BFS Iterative](solutions/minimum_depth_of_a_binary_tree_bfs.java) | | 
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 1. [Java - DP](solutions/pascals_trianle_dp.java), <br> | [Terrible Whiteboard](https://www.youtube.com/watch?v=7pOzP9m_bX8) | Follow up - 119, <br> [GeeksforGeeks](https://www.geeksforgeeks.org/pascal-triangle/)
 119 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle-ii/) |
-121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) | |
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solutions/best_time_to_buy_and_sell_stocks.cpp) |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | :lock: <br> 1. [Java - Reverse Compare](solutions/valid_palindrome_reverse_compare.java), <br> 2. [Java - Two Pointer](solutions/valid_palindrome_two_pointer.java) | | Follow up - 680
 129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](solutions/sum_root_to_leaf_numbers.cpp)
 136 | [Single Number](https://leetcode.com/problems/single-number/solution/) | 1. [Java - HashSet](solutions/single_number.java), <br> 2. [Java - Bit Manipulation](solutions/single_number_bit_manipulation.java)| [Kevin](https://www.youtube.com/watch?v=CvnnCZQY2A0)
@@ -125,8 +125,7 @@ Sr. No | Problem | Solution | Video | Note
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 1. [Java - Brute](solutions/set_mismatch_brute.java), <br> 2. [Java - Better Brute](solutions/set_mismatch_better_brute.java), <br> 3. [Java - Sorting](solutions/set_mismatch_sorting.java), <br> 4. [Java - HashMap](solutions/set_mismatch_hashmap.java), <br> 5. Java - (), <br> 6. Java - XOR () | |
 653 | [Two Sum IV](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | 1. [Java - HashSet](solutions/two_sum_iv_hashset.java), <br> 2.[Java - BFS & HashSet](solutions/two_sum_iv_bfs_hashset.java), <br> 3. [Java - BST](solutions/two_sum_iv_bst.java) |  
 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Java - Simulation](solutions/robot_return_to_origin_sumulation.java)
-669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | 1. [Java - Recursive](solutions/trimBST_recursive.java
-), <br> 2.[Java - Iterative] (solutions/trimBST_iterative.java) | [YouTube](https://www.youtube.com/watch?v=hFwakLj7wFA) | [LeetCode Discuss - Iterative](https://leetcode.com/problems/trim-a-binary-search-tree/discuss/107026/Java-solution-iteration-version)
+669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | 1. [Java - Recursive](solutions/trimBST_recursive.java), <br> 2.[Java - Iterative] (solutions/trimBST_iterative.java) | [YouTube](https://www.youtube.com/watch?v=hFwakLj7wFA) | [LeetCode Discuss - Iterative](https://leetcode.com/problems/trim-a-binary-search-tree/discuss/107026/Java-solution-iteration-version)
 680 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome-ii/) | 1. [Java - Brute](solutions/valid_palindrome_ii_brute.java), <br> 2. [Java - Two Pointer](solutions/valid_palindrome_ii_two_pointer.java) | [Kevin](https://www.youtube.com/watch?v=L_74qbyPHXE)
 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | 1. [Java - Stack](solutions/baseball_game.java), <br> 2. [Java - Stack One Pass](solutions/baseball_game_stack_one_pass.java)
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | :lock: <br> 1.[Java - Recursive](solutions/search_in_a_binary_search_tree_recursive.java), <br> 2. [Java - Iterative](solutions/search_in_a_binary_search_tree_iterative.java) 
