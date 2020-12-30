@@ -160,6 +160,7 @@ Sr. No | Problem | Solution | Video | Note
 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Java](solutions/next_greater_node_in_linked_list.java)
 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | :lock: <br> 1. [Java - HashSet ](solutions/remove_all_adjacent_duplicates_in_string_hashset.java), <br> 2. [Java - Stack](solutions/remove_all_adjacent_duplicates_in_string_stack.java) | | Follow up - 1209
 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](solutions/duplicate_zeros.java)
+1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](solutions/defanging_an_IP_address.java) 
 1119 | :lock: <br> [Remove Vowels from a String](https://github.com/rahulbarhate/LeetCode/blob/master/LeetCode%20Premium%20Questions/Remove%20Vowels%20from%20a%20String.md) | 1. [C++](solutions/remove_vowels_from_a_string.cpp), <br> 2. [C++ - inplace](solutions/remove_vowels_from_a_string_inplace.cpp)
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | []
 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Solution() | |
