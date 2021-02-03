@@ -8,8 +8,6 @@ class Solution
         current.add(0);
         for(int x: arr)
         {
-            System.out.println("x: " + x);
-            System.out.println("\n");
             Set<Integer> current2 = new HashSet();
             for(int y: current)
             {
