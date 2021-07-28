@@ -30,6 +30,7 @@ Sr. No | Problem | Solution | Video | Note
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | :lock: <br> 1. [Java - Divide & Conquer](solutions/maximum_subarray_divide_and_conquer.java), <br> 2. 
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | :lock: [Java](solutions/rotate_list.java)
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | :lock: <br> 1. [Java - Recursion](solutions/minimum_path_sum_brute_recursion.java), <br> 2. [Java - DP 2D](solutions/minimum_path_sum_dp_2d.java), <br> 3. [](), <br> 4. []() | 1. [Brute Recursion](https://www.youtube.com/watch?v=iZBpB3e5QI0), <br> 2. [Kevin - DP 2D](https://www.youtube.com/watch?v=ItjZdu6jEMs)
+65 | [Valid Number](https://leetcode.com/problems/valid-number/) | 1. [Java](solutions/valid_number.java) | 
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](solutions/plus_one.java) | [Kevin](https://www.youtube.com/watch?v=_sls9AdBymI)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 1. [Java - Builtin](solutions/add_binary_builtin.java), <br> 2. [Java - Bit by bit](solutions/add_binary_bit_by_bit.java),<br> 3. [Java - Bit Manipulation](solutions/add_binary_bit_manipulation.java) | 1. [Back to Back](https://www.youtube.com/watch?v=qq64FrA2UXQ), <br> 2. [HackerRank](https://www.youtube.com/watch?v=NLKQEOgBAnw)
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | :lock: <br> 1. [Java - Calculator](solutions/sqrtx_calculator.java), <br> 2. [Java - Binary Search](solutions/sqrtx_binary_search.java), <br> 3.[Java - Recursion + Bit Shift](solutions/sqrtx_bit_shift.java), 4. [Java - Newton's Method](solutions/sqrtx_newton.java)
@@ -244,6 +245,10 @@ Zillow | 3, 53, 283, 733
 - [Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
 - [Very important for Google](https://leetcode.com/discuss/interview-question/469325/Google-or-Recruiter-Phone-or-Algorithms-and-Complexity)
 - [Google Interview Tips + FAQs Answered + Resources](https://leetcode.com/discuss/career/449744/Google-Interview-Tips-%2B-FAQs-Answered-%2B-Resources)
+
+### Facebook
+
+-[Facebook's most likely](https://leetcode.com/list/xyvbjku7/)
 
 ### Interview Experiences
 
