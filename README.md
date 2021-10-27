@@ -190,6 +190,12 @@ Sr. No | Program
 ---|------
 1 | [Program to find all subarrays and subsequences of an array](https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)
 
+
+Good Questions:
+
+1. [Minimum number of towers required such that every house is in the range of at least one tower](https://www.geeksforgeeks.org/minimum-number-of-towers-required-such-that-every-house-is-in-the-range-of-at-least-one-tower/) | [Java](solutions/minimum_number_of_towers_required_such_that_every_house_is_in_the_range_of_at_least_one_tower.java)
+
+
 Important Articles:
 
 - [A Guide for Dummies](https://leetcode.com/discuss/general-discussion/623011/a-guide-for-dummies-like-me)
