@@ -1,19 +1,20 @@
 public class solution{
-    public static int numOfTowers(int[] nums, int range){
+    public static int numOfTowers(int[] houses, int range){
         int numOfTowers = 0;
         int i = 0;
+        int n = houses.length;
 
-        while(i < nums.length){
+        while(i < house.length){
             numOfTowers++;
-            int loc = nums[i] + range;
-            while(i < n && house[i] <= loc){
+            int loc = houses[i] + range;
+            while(i < n && houses[i] <= loc){
                 i++;
             }
 
             i--;
 
-            loc = nums[i] + range;
-            while(i < n && house[i] <= loc){
+            loc = houses[i] + range;
+            while(i < n && houses[i] <= loc){
                 i++;
             }
         }
@@ -21,3 +22,4 @@ public class solution{
         return numOfTowers;
     }
 }
+
