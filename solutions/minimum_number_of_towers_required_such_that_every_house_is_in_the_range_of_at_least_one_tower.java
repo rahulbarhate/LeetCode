@@ -4,7 +4,7 @@ public class solution{
         int i = 0;
         int n = houses.length;
 
-        while(i < house.length){
+        while(i < n){
             numOfTowers++;
             int loc = houses[i] + range;
             while(i < n && houses[i] <= loc){
