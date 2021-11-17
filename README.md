@@ -186,6 +186,7 @@ Sr. No | Problem | Solution | Video | Note
 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | :lock: <br> [Java](solutions/angle_between_hands_of_a_clock.java)
 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Java](solutions/check_if_n_and_its_double_exists.java)
 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | :no_entry_sign: <br> 1. [Java - O(n^2), O(n)](solutions/how_many_numbers_are_smaller_than_the_current_number_brute.java), <br> 2. [Java - O(nlogn)](solutions/how_many_numbers_are_smaller_than_the_current_number.java), <br> 3. [Java - Bucket](solutions/how_many_numbers_are_smaller_than_the_current_number_bucket.java), <br> 4. [Java - Better Bucket](solutions/how_many_numbers_are_smaller_than_the_current_number_better_bucket.java)
+1762 | [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | 1. [Java](solutions/) | [AverageLeeter](https://www.youtube.com/watch?v=DQ7f9ci5c3k)
 
 Important Programs
 
